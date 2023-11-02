@@ -1,0 +1,738 @@
+PLAN_ID,PROD_CODE,BENEFIT_NAME,TYPE,MORT_GROUP,PRODUCT_TYPE,PRODUCT_TYPE_1,LOB,LOB_1,LOB_2
+AP00R,C_ELRP,Deferred Annuity Regular Premium,PAR,1,Defered annuity,Annuity,Traditional,Par Pension,Par Pension
+AP00S,C_ELSP,Deferred Annuity Single Premium,PAR,1,Defered annuity,Annuity,Traditional,Par Pension,Par Pension
+DN10,C_NDDR,Dread Disease 10 Yr Rider,NPAR,0,Dread Disease  Rider,Non Par Protection,Traditional,NPAR,NPAR
+DN15,C_NDDR,Dread Disease 15 Yr Rider,NPAR,0,Dread Disease  Rider,Non Par Protection,Traditional,NPAR,NPAR
+DN20,C_NDDR,Dread Disease 20 Yr Rider,NPAR,0,Dread Disease  Rider,Non Par Protection,Traditional,NPAR,NPAR
+DN25,C_NDDR,Dread Disease 25 Yr Rider,NPAR,0,Dread Disease  Rider,Non Par Protection,Traditional,NPAR,NPAR
+DN30,C_NDDR,Dread Disease 30 Yr Rider,NPAR,0,Dread Disease  Rider,Non Par Protection,Traditional,NPAR,NPAR
+DNPT,C_NDDR,Dread Disease Rider (Non Par),NPAR,0,Dread Disease  Rider,Non Par Protection,Traditional,NPAR,NPAR
+DP10,C_PDDR,Dread Disease 10 Yr Rider (Par),PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DP15,C_PDDR,Dread Disease 15 Yr Rider (Par),PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DP20,C_PDDR,Dread Disease 20 Yr Rider (Par),PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DP25,C_PDDR,Dread Disease 25 Yr Rider (Par),NPAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DP30,C_PDDR,Dread Disease 30 Yr Rider (Par),PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DPPT,C_PDDR,Dread Disease Rider (Par),PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DPPT10,C_PDDR,Dread Disease Rider (Par)- Limited pay 10 yrs,PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DPPT15,C_PDDR,Dread Disease Rider (Par)- Limited pay 15 yrs,PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+DPPT20,C_PDDR,Dread Disease Rider (Par)- Limited pay 20 yrs,PAR,0,Dread Disease  Rider(par),Par,Traditional,PAR,PAR
+EN08S,C_SPB_,Single Premium Insurance Bond,NPAR,1,Single Premium Insurance Bond,Non Par Savings,Traditional,NPAR,NPAR
+ENDT15,C_AMBB,Amsure Business Builder,NPAR,1,Amsure Business Builder,Non Par Protection,Traditional,NPAR,NPAR
+ENDT20,C_AMBB,Amsure Business Builder,NPAR,1,Amsure Business Builder,Non Par Protection,Traditional,NPAR,NPAR
+EP18,C_CER2,Endowment to Age 18,PAR,1,Child Endowment,Par,Traditional,PAR,PAR
+EP18S,C_CES2,Children Endowment to Age 18(Single Premium),PAR,1,Child Endowment,Par,Traditional,PAR,PAR
+EP20,C_EN20,20 Year Endowment Plan,PAR,1,Endowment,Par,Traditional,PAR,PAR
+EP2006,C_LPEN,Life Gain Plus 20 Yr 6 Pay,PAR,1,Life gain Plus,Par,Traditional,PAR,PAR
+EP2010,C_LPEN,Life Gain Plus 20 Yr 10 Pay,PAR,1,Life gain Plus,Par,Traditional,PAR,PAR
+EP206G,C_LPEN,Life Gain Plus 20 Yr 6 Pay - GTMS,PAR,1,Life gain Plus,Par,Traditional,PAR,PAR
+EP20D,C_EN20,20 Year Endowment Plan - ND,PAR,1,Endowment,Par,Traditional,PAR,PAR
+EP20E,C_EN20,20 Year Endowment Plan (Employee),PAR,1,Endowment,Par,Traditional,PAR,PAR
+EP20G,C_EN20,20 Year Endowment Plan - GTMS,PAR,1,Endowment,Par,Traditional,PAR,PAR
+EP24,C_CERP,Endowment to Age 24,PAR,1,Child Endowment,Par,Traditional,PAR,PAR
+EP24A,C_AMCH,Amsure future builder,PAR,1,Amsure future builder,Par,Traditional,PAR,PAR
+EP24S,C_CESP,Children Endowment to Age 24(Single Premium),PAR,1,Child Endowment,Par,Traditional,PAR,PAR
+EP2506,C_LPEN,Life Gain Plus 25 Yr 6 Pay,PAR,1,Life gain Plus,Par,Traditional,PAR,PAR
+EP2510,C_LPEN,Life Gain Plus 25 Yr 10 Pay,PAR,1,Life gain Plus,Par,Traditional,PAR,PAR
+EP2515,C_LPEN,Life Gain Plus 25 Yr 15 Pay,PAR,1,Life gain Plus,Par,Traditional,PAR,PAR
+EP256G,C_LPEN,Life Gain Plus 25 Yr 6 Pay - GTMS,PAR,1,Life gain Plus,Par,Traditional,PAR,PAR
+EP60,C_EN60,Endowment to Age 60,PAR,1,Endowment,Par,Traditional,PAR,PAR
+EP60G,C_EN60,Endowment to Age 60 - GTMS,PAR,1,Endowment,Par,Traditional,PAR,PAR
+EP60N,C_LFGN,Life Gain to Age 60,PAR,1,Life Gain,Par,Traditional,PAR,PAR
+EPMB1,C_LPMB,Life Pay Money Back,PAR,1,Life Pay Money Back,Par,Traditional,PAR,PAR
+EPMBL,C_SSB_,SUper Savor Bond,NPAR,1,SUper Savor Bond,Non Par Savings,Traditional,NPAR,NPAR
+EPPT,C_LFGN,Life Gain,PAR,1,Life Gain,Par,Traditional,PAR,PAR
+EPS,C_STEP,Stepping Stones,PAR,1,Stepping Stones,Par,Traditional,Others,PAR
+EPSA,C_STEP,Amsure Family MoneyBack,PAR,1,Stepping Stones,Par,Traditional,Others,PAR
+EPS11G,C_STEP,Stepping Stones 11 Year - GTMS,PAR,1,Stepping Stones,Par,Traditional,Others,PAR
+GP00,C_PLTR,GIO Rider (Par),PAR,0,GIO Rider (Par),Par,Traditional,PAR,PAR
+JM1206,C_MNGL,Jeevan Mangal,PAR,1,Jeevan Mangal,Par,Traditional,Others,PAR
+JM1506,C_MNGL,Jeevan Mangal,PAR,1,Jeevan Mangal,Par,Traditional,Others,PAR
+JM1512,C_MNGL,Jeevan Mangal,PAR,1,Jeevan Mangal,Par,Traditional,Others,PAR
+JV00,C_MVMB,Jeevan Vriksha,PAR,1,Jeevan Vriksha,Par,Traditional,Others,PAR
+OP00,C_OPPR,Option to Participate in Progressive Bonus,PAR,0,Option to Participate in Progressive Bonus,Par,Traditional,PAR,PAR
+PN00,C_NABR,Personal Accident Rider,NPAR,0,Personal Accident Rider,Non Par Protection,Traditional,NPAR,NPAR
+PN00N,C_NABR,Personal Accident Rider - Ver 1.1,NPAR,0,Personal Accident Rider,Non Par Protection,Traditional,NPAR,NPAR
+PP00,C_PABR,Personal Accident Rider (Par),PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP00N,C_PABR,Personal Accident Rider (Par) - Ver 1.1,PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP07,C_PABR,Personal Accident Rider,PAR,0,Personal Accident Rider (Par),Par,Traditional,NPAR,NPAR
+PP10,C_PABR,Personal Accident Rider,PAR,0,Personal Accident Rider (Par),Par,Traditional,NPAR,NPAR
+PP20,C_PABR,Personal Accident Rider,PAR,0,Personal Accident Rider (Par),Par,Traditional,NPAR,NPAR
+PN20,C_NABR,Personal Accident Rider,NPAR,0,Personal Accident Rider,Non Par Protection,Traditional,NPAR,NPAR
+PP2006,C_PABR,Personal Accident (20 LGP 6) Rider (Par),PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP2010,C_PABR,Personal Accident (20 LGP 10) Rider (Par),PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP201N,C_PABR,Personal Accident (20 LGP 10) Rider (Par) - Ver 1.,PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP206N,C_PABR,Personal Accident (20 LGP 6) Rider (Par) - Ver 1.1,PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP2506,C_PABR,Personal Accident (25 LGP 6) Rider (Par),PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP2510,C_PABR,Personal Accident (25 LGP 10) Rider (Par),PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP2515,C_PABR,Personal Accident (25 LGP 15) Rider (Par),PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP251N,C_PABR,Personal Accident (25 LGP 10) Rider (Par) - Ver 1.,PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP255N,C_PABR,Personal Accident (25 LGP 15) Rider (Par) - Ver 1.,PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+PP256N,C_PABR,Personal Accident (25 LGP 6) Rider (Par) - Ver 1.1,PAR,0,Personal Accident Rider (Par),Par,Traditional,PAR,PAR
+RN00S,C_NLTR,Spouse Rider,NPAR,0,Spouse Rider,Non Par Protection,Traditional,NPAR,NPAR
+RN05,C_NLTR,Term Rider 5 Yr,NPAR,0,Term Rider ,Non Par Protection,Traditional,NPAR,NPAR
+RN10,C_NLTR,Term Rider 10 Yr,NPAR,0,Term Rider ,Non Par Protection,Traditional,NPAR,NPAR
+RN60,C_NLTR,Term Rider To Age 60,NPAR,0,Term Rider ,Non Par Protection,Traditional,NPAR,NPAR
+RNPT,C_NLTR,Term Rider (Non Par),NPAR,0,Term Rider ,Non Par Protection,Traditional,NPAR,NPAR
+RP005,C_PLTR,Term Rider (LGP 25) 5 Yr (Par),PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RP00S,C_PLTR,Spouse Rider (Par),PAR,0,Spouse Rider (Par),Par,Traditional,PAR,PAR
+RP05,C_PLTR,Term Rider 5 Yr (Par),PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RP05C,C_PRCT,5 Year Renewable and Convertible Term Rider (Par),PAR,0,5 Year Renewable and Convertible Term Rider (Par),Par,Traditional,PAR,PAR
+RP10,C_PLTR,Term Rider 10 Yr (Par),PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RP60,C_PLTR,Term Rider To Age 60 (Par),PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RPPT,C_PLTR,Term Rider (Par),PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RPPT06,C_PLTR,Term Rider (Par)- Limited pay 06 yrs,PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RPPT07,C_PLTR,Term Rider (Par)- Limited pay 07 yrs,PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RPPT10,C_PLTR,Term Rider (Par)- Limited pay 10 yrs,PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RPPT15,C_PLTR,Term Rider (Par)- Limited pay 15 yrs,PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+RPPT20,C_PLTR,Term Rider (Par)- Limited pay 15 yrs,PAR,0,Term Rider (Par),Par,Traditional,PAR,PAR
+TN05,C_LTRP,5 Yr Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN05C,C_NRCT,5 Year Renewable and Convertible Term Plan,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN05E,C_NRCT,5 Year Renewable and Convertible Term Plan (Employ,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN05S,C_LTSP,5 Yr Single Premium Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN10,C_LTRP,10 Yr Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN10S,C_LTSP,10 Yr Single Premium Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN15,C_LTRP,15 Yr Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN15S,C_LTSP,15 Yr Single Premium Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN20,C_LTRP,20 Yr Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN20S,C_LTSP,20 Yr Single Premium Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN25,C_LTRP,25 Yr Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN25S,C_LTSP,25 Yr Single Premium Level Term Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN60,C_LTRP,Level Term to Age 60 Policy,NPAR,1,Term,Non Par Protection,Traditional,NPAR,NPAR
+TN60R,C_ET__,Easy Term To Age 60,NPAR,1,Easy Term ,Non Par Protection,Traditional,NPAR,NPAR
+TN60R2,C_ET__,Easy Term To Age 60 (new),NPAR,1,Easy Term ,Non Par Protection,Traditional,NPAR,NPAR
+UNEAD,UGADBR,Life Maker Personal Accident Benefit Rider,UL,0,Life Maker Personal Accident Benefit Rider,Endowment,UL,UL,UL
+UNEAR,UGENDW,Life Maker Unit Linked Investment Plan - Addl Risk,UL,1,Life Maker UL investment Plan,Endowment,UL,UL,UL
+UNEDD,UGDD_R,Life Maker Dread Disease Rider,UL,0,Life Maker Dread Disease Rider,Endowment,UL,UL,UL
+UNEFV,UGENDW,Life Maker Unit Linked Investment Plan,UL,0,Life Maker UL investment Plan,Endowment,UL,UL,UL
+UNEFVI,U_END1,Life Maker Unit Linked Investment Plan 2,UL,0,Life Maker UL investment Plan,Endowment,UL,UL,UL
+UNERE,UGENDW,Life Maker Unit Linked Investment Plan - Risk Elem,UL,1,Life Maker UL investment Plan,Endowment,UL,UL,UL
+UNEREI,U_END1,Life Maker Unit Linked Investment Plan - Risk Elem,UL,1,Life Maker UL investment Plan,Endowment,UL,UL,UL
+UNEARI,U_END1,Life Maker Unit Linked Additional Risk Element 2,UL,1,Life Maker UL investment Plan,Endowment,UL,UL,UL
+UNHAD,UGADBR,Life Invest Personal Accident Benefit Rider,UL,0,Life Invest Personal Accident Benefit Rider,Endowment,UL,UL,UL
+UNHDD,UGDD_R,Life Invest Dread Disease Rider,UL,0,Life Invest Dread Disease Rider,Endowment,UL,UL,UL
+UNHF01,UHNILP,Life Invest UL Investment Plan SP,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHF03,UHNILP,Life Invest UL Investment Plan 3P,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHF05,UHNILP,Life Invest UL Investment Plan 5P,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHF07,UHNILP,Life Invest UL Investment Plan 7P,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHF10,UHNILP,Life Invest UL Investment Plan 10P,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHFV,UHNILP,Life Invest UL Investment Plan RP,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHP01,UHNILP,Life Invest UL Investment Plan SP Prem,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHP03,UHNILP,Life Invest UL Investment Plan 3P Prem,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHP05,UHNILP,Life Invest UL Investment Plan 5P Prem,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHP07,UHNILP,Life Invest UL Investment Plan 7P Prem,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHP10,UHNILP,Life Invest UL Investment Plan 10P Prem,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHPE,UHNILP,Life Invest UL Investment Plan RP Prem,UL,0,Life Invest,Endowment,UL,UL,UL
+UNHR01,UHNILP,Life Invest UL Investment Plan SP FA,UL,1,Life Invest,Endowment,UL,UL,UL
+UNHR03,UHNILP,Life Invest UL Investment Plan 3P FA,UL,1,Life Invest,Endowment,UL,UL,UL
+UNHR05,UHNILP,Life Invest UL Investment Plan 5P FA,UL,1,Life Invest,Endowment,UL,UL,UL
+UNHR07,UHNILP,Life Invest UL Investment Plan 7P FA,UL,1,Life Invest,Endowment,UL,UL,UL
+UNHR10,UHNILP,Life Invest UL Investment Plan 10P FA,UL,1,Life Invest,Endowment,UL,UL,UL
+UNHRE,UHNILP,Life Invest UL Investment Plan RP FA,UL,1,Life Invest,Endowment,UL,UL,UL
+UNPFV,U_PNSN,Life Maker UL Pension Plan,UL,0,Life Maker Pension,Pension,UL,UL Pension,UL Pension
+UNPFVI,U_PNS1,Life Maker UL Pension Plan 2,UL,0,Life Maker Pension,Pension,UL,UL Pension,UL Pension
+UNPRE,U_PNSN,Life Maker UL Pension Plan - FA,UL,1,Life Maker Pension,Pension,UL,UL Pension,UL Pension
+UNPREI,U_PNS1,Life Maker UL Pension Plan - FA 2,UL,1,Life Maker Pension,Pension,UL,UL Pension,UL Pension
+VN00,C_NPWR,Waiver Of Premium Rider,NPAR,0,Waiver Of Premium Rider,Non Par Protection,Traditional,NPAR,NPAR
+VN05T,C_NPWR,Waiver Of Premium (Term 5 yr) Rider,NPAR,0,Waiver Of Premium Rider,Non Par Protection,Traditional,NPAR,NPAR
+VN10T,C_NPWR,Waiver Of Premium (Term 10 yr) Rider,NPAR,0,Waiver Of Premium Rider,Non Par Protection,Traditional,NPAR,NPAR
+VN15T,C_NPWR,Waiver Of Premium (Term 15 yr) Rider,NPAR,0,Waiver Of Premium Rider,Non Par Protection,Traditional,NPAR,NPAR
+VN20T,C_NPWR,Waiver Of Premium (Term 20 yr) Rider,NPAR,0,Waiver Of Premium Rider,Non Par Protection,Traditional,NPAR,NPAR
+VN25T,C_NPWR,Waiver Of Premium (Term 25 yr) Rider,NPAR,0,Waiver Of Premium Rider,Non Par Protection,Traditional,NPAR,NPAR
+VN60T,C_NPWR,Waiver Of Premium (Term to 60) Rider,NPAR,0,Waiver Of Premium Rider,Non Par Protection,Traditional,NPAR,NPAR
+VP,C_PPYR,Payor Rider (Par) - Life Gain,PAR,0,Payor Rider (Par) ,Par,Traditional,PAR,PAR
+VP00,C_PPWR,Waiver Of Premium Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VP00E,C_PPWR,Waiver Of Premium (Endt60) Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VP00P,C_PPYR,Payor Benefit Rider (Par),PAR,0,Payor Rider (Par) ,Par,Traditional,PAR,PAR
+VP07P,C_PPYR,Payor Benefit Rider (Par),PAR,0,Payor Rider (Par) ,Par,Traditional,PAR,PAR
+VP10P,C_PPWR,Waiver of Premium 10 Yr Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VP20P,C_PPWR,Waiver of Premium 20 Yr Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VP10L,C_PPWR,Waiver of Premium 10 Yr Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VP15L,C_PPWR,Waiver of Premium 15 Yr Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VP206L,C_PPWR,Waiver of Premium (20 LG)  6 Yr Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VP206P,C_PPYR,Payor Benefit (20 LG) 6 Yr Rider (Par),PAR,0,Payor Rider (Par) ,Par,Traditional,PAR,PAR
+VP251P,C_PPYR,Payor Benefit 10 Yr Rider (Par),PAR,0,Payor Rider (Par) ,Par,Traditional,PAR,PAR
+VP255P,C_PPYR,Payor Benefit 15 Yr Rider (Par),PAR,0,Payor Rider (Par) ,Par,Traditional,PAR,PAR
+VP256L,C_PPWR,Waiver of Premium (25 LG)  6 Yr Rider (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VS,C_PPWR,Waiver of Premium SS (Par),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+VSE,C_PPWR,Waiver of Premium (Par) - Life Gain,PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+WN00,C_NPWL,Whole Life Non-Participating Plan,NPAR,1,Whole Life non par,Non Par Savings,Traditional,NPAR,NPAR
+WN00E,C_NPWL,Whole Life Non-Participating Plan (Employee),NPAR,1,Whole Life non par,Non Par Savings,Traditional,NPAR,NPAR
+WP00,C_PWL_,Whole Life Participating Plan,PAR,1,Whole Life Par,Par,Traditional,PAR,PAR
+WP00D,C_PWL_,Whole Life Participating Plan - ND,PAR,1,Whole Life Par,Par,Traditional,PAR,PAR
+WP00E,C_PWL_,Whole Life Participating Plan (Employee),PAR,1,Whole Life Par,Par,Traditional,PAR,PAR
+WP00ED,C_PWL_,Whole Life Participating Plan (Employee) - ND,PAR,1,Whole Life Par,Par,Traditional,PAR,PAR
+WP00L,C_AMWL,Amsure bonus builder,PAR,1,Amsure bonus builder,Par,Traditional,PAR,PAR
+WPLP03,C_LPP_,Life Partner Plus Endowment,PAR,1,Life Partner Plus,Par,Traditional,PAR,PAR
+WPLP07,C_LPP_,Life Partner Plus Endowment,PAR,1,Life Partner Plus,Par,Traditional,PAR,PAR
+WPLP10,C_LPP_,Life Partner Plus Endowment,PAR,1,Life Partner Plus,Par,Traditional,PAR,PAR
+WPLP20,C_LPP_,Life Partner Plus Endowment,PAR,1,Life Partner Plus,Par,Traditional,PAR,PAR
+UNLFV,U_LMPP,Life Maker Premium,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNLRE,U_LMPP,Life Maker Premium,UL,1,Life Maker Premium,Endowment,UL,UL,UL
+UNLPE,U_LMPP,Life Maker Premium,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UAFSL,UGAMUL,Life sec Ret Builder - ULIP - Level Simplified,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABSL,UGAMUL,Life sec Ret Builder - ULIP - Level Simplified Bas,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAFLI,UGAMUL,Life sec Ret Builder - ULIP - Increasing Standard,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABLI,UGAMUL,Life sec Ret Builder - ULIP - Increasing Standard ,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAILI,UGAMUL,Life sec Ret Builder - ULIP - Increasing Standard ,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAFSI,UGAMUL,Life sec Ret Builder - ULIP - Increasing Simplifie,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABSI,UGAMUL,Life sec Ret Builder - ULIP - Increasing Simplifie,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAISI,UGAMUL,Life sec Ret Builder - ULIP - Increasing Simplifie,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAFLL,UGAMUL,Life sec Ret Builder - ULIP - Level Standard,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABLL,UGAMUL,Life sec Ret Builder - ULIP - Level Standard Base ,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UNPFV3,U_PNS2,Life Maker Linked Pension Plan 2007,UL,0,Life Maker Pension,Pension,UL,UL Pension,UL Pension
+UNPRE3,U_PNS2,Life Maker Linked Pension Plan -Risk Element 2007,UL,1,Life Maker Pension,Pension,UL,UL Pension,UL Pension
+UNEFVL,U_END2,Life Maker Gold Investment Plan,UL,0,Life Maker UL Investment Plan,Endowment,UL,UL,UL
+UNEREL,U_END2,Life Maker Gold Investment Plan - Risk Element,UL,1,Life Maker UL Investment Plan,Endowment,UL,UL,UL
+UNEARL,U_END2,Life Maker Gold Investment Plan - Addl Risk,UL,1,Life Maker UL Investment Plan,Endowment,UL,UL,UL
+UNEFVU,U_END2,Life Maker Platinum Investment Plan,UL,0,Life Maker UL Investment Plan,Endowment,UL,UL,UL
+UNEREU,U_END2,Life Maker Platinum Investment Plan - Risk Element,UL,1,Life Maker UL Investment Plan,Endowment,UL,UL,UL
+UNEARU,U_END2,Life Maker Platinum Investment Plan - Addl Risk,UL,1,Life Maker UL Investment Plan,Endowment,UL,UL,UL
+UNMF05,ULMPIP,Life Maker Premium Unit Linked Investment 10yr 5pa,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMR05,ULMPIP,Life Maker Premium Unit Linked Investment 10yr 5pa,UL,1,Life Maker Premium,Endowment,UL,UL,UL
+UNMP05,ULMPIP,Life Maker Premium Unit Linked Investment 10yr 5pa,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMF10,ULMPIP,Life Maker Premium Unit Linked Investment 20yr 10p,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMR10,ULMPIP,Life Maker Premium Unit Linked Investment 20yr 10p,UL,1,Life Maker Premium,Endowment,UL,UL,UL
+UNMP10,ULMPIP,Life Maker Premium Unit Linked Investment 20yr 10p,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMF15,ULMPIP,Life Maker Premium Unit Linked Investment 30yr 15p,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMR15,ULMPIP,Life Maker Premium Unit Linked Investment 30yr 15p,UL,1,Life Maker Premium,Endowment,UL,UL,UL
+UNMP15,ULMPIP,Life Maker Premium Unit Linked Investment 30yr 15p,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMFV,ULMPIP,Life Maker Premium Unit Linked Investment Plan,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMRE,ULMPIP,Life Maker Premium Unit Linked Investment Plan-FA,UL,1,Life Maker Premium,Endowment,UL,UL,UL
+UNMPE,ULMPIP,Life Maker Premium Unit Linked Investment Plan-Pre,UL,0,Life Maker Premium,Endowment,UL,UL,UL
+UNMAR,ULMPIP,Life Maker Premium Unit Linked Investment Plan-ADD,UL,1,Life Maker Premium,Endowment,UL,UL,UL
+URGCUL,U_SMTR,Smart Steps(Fund Coverage),UL,0,Smart Steps,Endowment,UL,UL,UL
+URGCUP,U_SMTR,Smart Steps(Premium Coverage),UL,0,Smart Steps,Endowment,UL,UL,UL
+URGCUR,U_SMTR,Smart Steps(Risk Coverage),UL,1,Smart Steps,Endowment,UL,UL,UL
+URGSVN,U_SWOP,Smart Steps(WOP coverage),UL,0,Smart Steps,Endowment,UL,UL,UL
+URPCUL,U_SMTP,Smart Steps Plus (Fund Coverage),UL,0,Smart Steps Plus,Endowment,UL,UL,UL
+URPCUP,U_SMTP,Smart Steps Plus (Premium Coverage),UL,0,Smart Steps Plus,Endowment,UL,UL,UL
+URPCUR,U_SMTP,Smart Steps Plus(Risk Coverage),UL,1,Smart Steps Plus,Endowment,UL,UL,UL
+USDD25,UGDD_R,Smart Steps Plus(DD coverage),UL,0,Smart Steps,Endowment,UL,UL,UL
+USGCUL,U_SMTS,Smart Steps Single premium(Fund Coverage),UL,0,Smart Steps,Endowment,UL,UL,UL
+USGCUP,U_SMTS,Smart Step Single premium(Premium Coverage),UL,0,Smart Steps,Endowment,UL,UL,UL
+USGCUR,U_SMTS,Smart Steps Single premium(Risk Coverage),UL,1,Smart Steps,Endowment,UL,UL,UL
+USSVN,U_SWOP,Smart Steps Plus(WOP coverage),UL,0,Smart Steps,Endowment,UL,UL,UL
+UNPFV5,U_SINV,Smart Invest Pension Plan- Fund,UL,0,Smart Invest Pension,Pension,UL,UL Pension,UL Pension
+UNPRE5,U_SINV,Smart Invest Pension Plan- Risk,UL,1,Smart Invest Pension,Pension,UL,UL Pension,UL Pension
+UNPFV4,U_SINV,Smart Invest Pension (Indexed - Fund Coverage),UL,0,Smart Invest Pension,Pension,UL,UL Pension,UL Pension
+UNPFVS,U_SINV,Smart Invest Pension (Single Premium - Fund Covera,UL,0,Smart Invest Pension,Pension,UL,UL Pension,UL Pension
+UNPRES,U_SINV,Smart Invest Pension(Single Premium -  Risk Covera,UL,1,Smart Invest Pension,Pension,UL,UL Pension,UL Pension
+UNPRE4,U_SINV,Smart Invest Pension Plan- Risk,UL,1,Smart Invest Pension,Pension,UL,UL Pension,UL Pension
+ULSFE,U_SMTA,Smart Assure Unit Linked Investment Plan,UL,0,Smart Assure,Endowment,UL,UL,UL
+ULSPE,U_SMTA,Smart Assure Premium Unit Linked Investment Plan,UL,0,Smart Assure,Endowment,UL,UL,UL
+ULSRE,U_SMTA,Smart Assure Risk Unit Linked Investment Plan,UL,1,Smart Assure,Endowment,UL,UL,UL
+UNSFE,U_SMTA,Smart Assure Unit Linked Investment Plan - Indexed,UL,0,Smart Assure,Endowment,UL,UL,UL
+UNSPE,U_SMTA,Smart Assure Premium Unit Linked Investment Plan -,UL,0,Smart Assure,Endowment,UL,UL,UL
+UNSRE,U_SMTA,Smart Assure Risk Unit Linked Investment Plan - In,UL,1,Smart Assure,Endowment,UL,UL,UL
+UNCF15,U_CAPB,Capital Builder Unit Linked Investment Plan - 15 P,UL,0,Capital Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UNCR15,U_CAPB,Capital Builder Unit Linked Investment Plan Risk C,UL,1,Capital Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UNCF20,U_CAPB,Capital Builder Unit Linked Investment Plan - 20 P,UL,0,Capital Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UNCR20,U_CAPB,Capital Builder Unit Linked Investment Plan Risk C,UL,1,Capital Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+DWLPL,C_NWLL,Life Line - Wellness Plan,HL,0,,Health,Health,HEALTH,HEALTH
+DWPLP,C_NWLP,Life Line - Wellness Plus Plan,HL,0,,Health,Health,HEALTH,HEALTH
+DHCS,C_NMCS,Life Line - Medi Cash Plan,HL,0,,Health,Health,HEALTH,HEALTH
+DHCSP,C_NMCP,Life Line - Medi Cash Plus Plan,HL,0,,Health,Health,HEALTH,HEALTH
+DSNET,C_NSFN,Life Line - Safety Net Plan,HL,0,,Health,Health,HEALTH,HEALTH
+DADB,C_SADB,Safety Net Accidental Death Benefit,HL,0,,Health,Health,HEALTH,HEALTH
+DACIB,C_SCIB,Safety Net Critical Illness Benefit,HL,0,,Health,Health,HEALTH,HEALTH
+DTPD,C_STPD,Safety Net Total Disability Benefit,HL,0,,Health,Health,HEALTH,HEALTH
+ULUBFV,U_UNBL,Unit Builder Unit Linked Investment Plan - Fund Co,UL,0,Unit Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+ULUBRE,U_UNBL,Unit Builder Unit Linked Investment Plan - Risk Co,UL,1,Unit Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAFSL3,UGAMUL,Life sec Ret Builder - ULIP - Level Simplified-New,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABSL3,UGAMUL,Life sec Ret Builder - ULIP - Level Simplified Bas,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAFLI3,UGAMUL,Life sec Ret Builder - ULIP - Increasing Standard-,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABLI3,UGAMUL,Life sec Ret Builder - ULIP - Increasing Standard ,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAILI3,UGAMUL,Life sec Ret Builder - ULIP - Increasing Standard ,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAFSI3,UGAMUL,Life sec Ret Builder - ULIP - Increasing Simplifie,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABSI3,UGAMUL,Life sec Ret Builder - ULIP - Increasing Simplifie,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAISI3,UGAMUL,Life sec Ret Builder - ULIP - Increasing Simplifie,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UAFLL3,UGAMUL,Life sec Ret Builder - ULIP - Level Standard-New,UL,0,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+UABLL3,UGAMUL,Life sec Ret Builder - ULIP - Level Standard Base ,UL,1,Life Sec Ret Builder,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+DFFB,C_NHFP,Max New York Life - Life Line - Healthy Family - B,HL,0,,Health,Health,HEALTH,HEALTH
+DFFBD,C_NHFD,Max New York Life - Life Line - Healthy Family - B,HL,0,,Health,Health,HEALTH,HEALTH
+DFFC,C_NHFS,Max New York Life - Life Line - Healthy Family - C,HL,0,,Health,Health,HEALTH,HEALTH
+DFFPB,C_NHFP,Max New York Life - Life Line - Healthy Family Plu,HL,0,,Health,Health,HEALTH,HEALTH
+DFFPBD,C_NHFD,Max New York Life - Life Line - Healthy Family Plu,HL,0,,Health,Health,HEALTH,HEALTH
+DFFPC,C_NHFS,Max New York Life - Life Line - Healthy Family Plu,HL,0,,Health,Health,HEALTH,HEALTH
+DFFPP,C_NHFS,Max New York Life - Life Line - Healthy Family Plu,HL,0,,Health,Health,HEALTH,HEALTH
+DFFPPD,C_NHFD,Max New York Life - Life Line - Healthy Family Plu,HL,0,,Health,Health,HEALTH,HEALTH
+DFFPS,C_NHFS,Max New York Life - Life Line - Healthy Family Plu,HL,0,,Health,Health,HEALTH,HEALTH
+DFFPSD,C_NHFD,Max New York Life - Life Line - Healthy Family Plu,HL,0,,Health,Health,HEALTH,HEALTH
+DFFS,C_NHFS,Max New York Life - Life Line - Healthy Family - S,HL,0,,Health,Health,HEALTH,HEALTH
+DFFSD,C_NHFD,Max New York Life - Life Line - Healthy Family - S,HL,0,,Health,Health,HEALTH,HEALTH
+ULXFE3,U_SMXP,Max New York Life - SMART Xpress (ULIP - 3 Pay),UL,0,Smart Xpress,Endowment,UL,UL,UL
+ULXRE3,U_SMXP,Max New York Life - SMART Xpress Risk (ULIP - 3 Pa,UL,1,Smart Xpress,Endowment,UL,UL,UL
+ULXPE3,U_SMXP,Max New York Life - SMART Xpress Premium (ULIP - 3,UL,0,Smart Xpress,Endowment,UL,UL,UL
+ULXFE5,U_SMXP,Max New York Life - SMART Xpress (ULIP - 5 Pay),UL,0,Smart Xpress,Endowment,UL,UL,UL
+ULXRE5,U_SMXP,Max New York Life - SMART Xpress Risk (ULIP - 5 Pa,UL,1,Smart Xpress,Endowment,UL,UL,UL
+ULXPE5,U_SMXP,Max New York Life - SMART Xpress Premium (ULIP - 5,UL,0,Smart Xpress,Endowment,UL,UL,UL
+ULXFE1,U_SMXP,Max New York Life - SMART Xpress (ULIP - Single Pa,UL,0,Smart Xpress,Endowment,UL,UL,UL
+ULXRE1,U_SMXP,Max New York Life - SMART Xpress Risk (ULIP - Sing,UL,1,Smart Xpress,Endowment,UL,UL,UL
+ULXPE1,U_SMXP,Max New York Life - SMART Xpress Premium (ULIP - S,UL,0,Smart Xpress,Endowment,UL,UL,UL
+UNPFV6,U_SIPP,Max New York Life - Smart Invest Pension Plus (Fun,UL,0,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+UNPRE6,U_SIPP,Max New York Life - Smart Invest Pension Plus ( Ri,UL,1,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+UNPF5P,U_SIPP,Max New York Life - Smart Invest Pension 5 pay (Fu,UL,0,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+UNPR5P,U_SIPP,Max New York Life - Smart Invest Pension 5 pay (Ri,UL,1,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+UNPFSP,U_SIPP,Max New York Life - Smart Invest Pension Plus (Sin,UL,0,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+UNPRSP,U_SIPP,Max New York Life - Smart Invest Pension Plus (Sin,UL,1,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+USLFV,U_SECD,Max New York Life-Secure Dreams Plan,UL,0,Secure Dreams,UNIVERSAL LIFE,UL,Others,UL
+USLPE,U_SECD,Max New York Life-Secure Dreams Plan(Premium),UL,0,Secure Dreams,UNIVERSAL LIFE,UL,Others,UL
+USLRE,U_SECD,Max New York Life-Secure Dreams Plan(Risk),UL,1,Secure Dreams,UNIVERSAL LIFE,UL,Others,UL
+USLWP,U_SWOP,Max New York Life-Secure Dreams Plan(WOP),UL,0,Secure Dreams,UNIVERSAL LIFE,UL,Others,UL
+UNPFV7,U_SIPP,Max New York Life - Smart Invest Pension Plus (Fun,UL,0,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+UNPRE7,U_SIPP,Max New York Life - Smart Invest Pension Plus ( Ri,UL,1,Smart Invest Pension Plus,Pension,UL,UL Pension,UL Pension
+UMBFV,U_MGBL,Max New York Life - Amsure Magic Builder (Fund Cov,UL,0,Magic Builder,Endowment,UL,UL,UL
+UMBRE,U_MGBL,Max New York Life - Amsure Magic Builder (Risk Cov,UL,1,Magic Builder,Endowment,UL,UL,UL
+UMBPE,U_MGBL,Max New York Life - Amsure Magic Builder (Premium ,UL,0,Magic Builder,Endowment,UL,UL,UL
+UMBWP,U_SWOP,Max New York Life - Amsure Magic Builder (WOP Cove,UL,0,Amsure Magic Builder,Endowment,UL,UL,UL
+UMBAR,U_MGBL,Max New York Life - Amsure Magic Builder (Addl Ris,UL,0,Magic Builder,Endowment,UL,UL,UL
+URXF03,U_SXP1,Max New York Life-Smart Xpress (3-Pay Plan),UL,0,Smart Xpress_New,Endowment,UL,UL,UL
+URXR03,U_SXP1,Max New York Life-Smart Xpress (3-Pay Risk),UL,1,Smart Xpress_New,Endowment,UL,UL,UL
+URXP03,U_SXP1,Max New York Life-Smart Xpress (3-Pay Premium),UL,0,Smart Xpress_New,Endowment,UL,UL,UL
+URXAR,U_SXP1,Max New York Life-Smart Xpress (Additional Risk),UL,1,Smart Xpress_New,Endowment,UL,UL,UL
+URHAD,UGADBR,Personal Accident Benefit Rider(Pr Driven),UL,0,Personal Accident Benefit Rider(Pr Driven),Endowment,UL,UL,UL
+URHDD,UGDD_R,Dread DiseaseRider(Pr Driven),UL,0,Dread DiseaseRider(Pr Driven),Endowment,UL,UL,UL
+URXF05,U_SXP1,Max New York Life-Smart Xpress (5-Pay Plan),UL,0,Smart Xpress_New,Endowment,UL,UL,UL
+URXR05,U_SXP1,Max New York Life-Smart Xpress (5-Pay Risk),UL,1,Smart Xpress_New,Endowment,UL,UL,UL
+URXP05,U_SXP1,Max New York Life-Smart Xpress (5-Pay Premium),UL,0,Smart Xpress_New,Endowment,UL,UL,UL
+URXF01,U_SXP1,Max New York Life-Smart Xpress (Single Pay Plan),UL,0,Smart Xpress_New,Endowment,UL,UL,UL
+URXR01,U_SXP1,Max New York Life-Smart Xpress (Single Pay Risk),UL,1,Smart Xpress_New,Endowment,UL,UL,UL
+URXP01,U_SXP1,Max New York Life-Smart Xpress (Single Pay Premium,UL,0,Smart Xpress_New,Endowment,UL,UL,UL
+URXSAR,U_SXP1,Max New York Life-Smart Xpress (Single PayAddition,UL,1,Smart Xpress_New,Endowment,UL,UL,UL
+URFBFV,U_FRBL,Max New York Life-Fortune Builder,UL,0,Fortune Builder,Endowment,UL,UL,UL
+URFBRE,U_FRBL,Max New York Life-Fortune Builder(Risk),UL,1,Fortune Builder,Endowment,UL,UL,UL
+URFBPE,U_FRBL,Max New York Life-Fortune Builder(Premium),UL,0,Fortune Builder,Endowment,UL,UL,UL
+URFBFI,U_FRBL,Max New York Life-Fortune Builder(indexed),UL,0,Fortune Builder,Endowment,UL,UL,UL
+URFBRI,U_FRBL,Max New York Life-Fortune Builder(Risk)(Indexed),UL,1,Fortune Builder,Endowment,UL,UL,UL
+URFBPI,U_FRBL,Max New York Life-Fortune Builder(Premium)(Indexed,UL,0,Fortune Builder,Endowment,UL,UL,UL
+URBPFV,U_UNBP,Max New York Life-Unit Builder Plus(10 Pay),UL,0,Unit Builder Plus,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+URBPPE,U_UNBP,Max New York Life-Unit Builder Plus(10 Pay)(Premiu,UL,0,Unit Builder Plus,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+URBPRE,U_UNBP,Max New York Life-Unit Builder Plus(10 Pay)(Risk),UL,1,Unit Builder Plus,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+URBIFV,U_UNBP,Max New York Life-Unit Builder Plus(10 Pay)-Indexe,UL,0,Unit Builder Plus,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+URBIPE,U_UNBP,Max New York Life-Unit Builder Plus(10 Pay)(Premiu,UL,0,Unit Builder Plus,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+URBIRE,U_UNBP,Max New York Life-Unit Builder Plus(10 Pay)(Risk)-,UL,1,Unit Builder Plus,SIMPLIFIED UNDERWRITING,UL,SIMPLIFIED ,UL
+URESFV,U_SHKP,Max New York LIfe-Shiksha Plus,UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESPE,U_SHKP,Max New York LIfe-Shiksha Plus(Premium),UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESRE,U_SHKP,Max New York LIfe-Shiksha Plus(Risk),UL,1,Shiksha Plus,Child Plan,UL,UL,UL
+URESWP,U_SWOP,Max New York LIfe-Shiksha Plus(WOP),UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESAR,U_SHKP,Max New York LIfe-Shiksha Plus(Additional Cover),UL,1,Shiksha Plus,Child Plan,UL,UL,UL
+URESF5,U_SHKP,Max New York LIfe-Shiksha Plus-5 Pay,UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESP5,U_SHKP,Max New York LIfe-Shiksha Plus(Premium)-5Pay,UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESR5,U_SHKP,Max New York LIfe-Shiksha Plus(Risk)-5 Pay,UL,1,Shiksha Plus,Child Plan,UL,UL,UL
+URESW5,U_SWOP,Max New York LIfe-Shiksha Plus(WOP)-5 Pay,UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESFI,U_SHKP,Max New York LIfe-Shiksha Plus-Indexed,UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESPI,U_SHKP,Max New York LIfe-Shiksha Plus(Premium)-Indexed,UL,0,Shiksha Plus,Child Plan,UL,UL,UL
+URESRI,U_SHKP,Max New York LIfe-Shiksha Plus(Risk)-Indexed,UL,1,Shiksha Plus,Child Plan,UL,UL,UL
+UPSRF,U_SIPS,Max New York Life-Smart Invest Pension Super (regu,UL,0,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+UPSRR,U_SIPS,Max New York Life-Smart Invest Pension Super (regu,UL,1,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+UPSHDD,UGDD_R,Max New York Life-Smart Invest Pension Super (DD R,UL,0,Max New York Life-Smart Invest Pension Super (DD R,Pension,UL,UL Pension,UL Pension
+UPSHAD,UGADBR,Max New York Life-Smart Invest Pension Super (ADB ,UL,0,Max New York Life-Smart Invest Pension Super (ADB ,Pension,UL,UL Pension,UL Pension
+UPSIRF,U_SIPS,Max New York Life-Smart Invest Pension Super (regu,UL,0,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+UPSIRR,U_SIPS,Max New York Life-Smart Invest Pension Super (regu,UL,1,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+UPS5PF,U_SIPS,Max New York Life-Smart Invest Pension Super (5 Pa,UL,0,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+UPS5PR,U_SIPS,Max New York Life-Smart Invest Pension Super (5 Pa,UL,1,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+UPSSPF,U_SIPS,Max New York Life-Smart Invest Pension Super (Sing,UL,0,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+UPSSPR,U_SIPS,Max New York Life-Smart Invest Pension Super (Sing,UL,1,Smart invest Pension Super,Pension,UL,UL Pension,UL Pension
+USMVRF,USHKTI,Max Vijay Rajat-Fund,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVRP,USHKTI,Max Vijay Rajat-Premium,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVRR,USHKTI,Max Vijay Rajat-Risk,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVRX,USHKTI,Max Vijay Rajat-Rider,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVHF,USHKTI,Max Vijay Heera-Fund,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVHP,USHKTI,Max Vijay Heera-Premium,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVHR,USHKTI,Max Vijay Heera-Risk,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVHX,USHKTI,Max Vijay Heera-Rider,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVSF,USHKTI,Max Vijay Swarna-Fund,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVSP,USHKTI,Max Vijay Swarna-Premium,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVSR,USHKTI,Max Vijay Swarna-Risk,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+USMVSX,USHKTI,Max Vijay Swarna-Rider,NPAR,0,,Non Par Protection,Traditional,NPAR,NPAR
+TNPP,C_PLTP,MNYL Platinum Protect,NPAR,1,Platinum Protect,Non Par Protection,Traditional,NPAR,NPAR
+ULSIFV,U_SHIN,MNYL Shubh Invest-Fund,UL,0,Shubh Invest,Endowment,UL,UL,UL
+ULSIPE,U_SHIN,MNYL Shubh Invest-Premium,UL,0,Shubh Invest,Endowment,UL,UL,UL
+ULSIRE,U_SHIN,MNYL Shubh Invest-Risk,UL,1,Shubh Invest,Endowment,UL,UL,UL
+ULSLDD,UGDD_R,MNYL Shubh Invest-DD Rider,UL,0,MNYL Shubh Invest-DD Rider,Endowment,UL,UL,UL
+UIHAD,UGADBR,Personal Accident Benefit Rider_New(Pr Driven),UL,0,Personal Accident Benefit Rider_New(Pr Driven),Endowment,UL,UL,UL
+UIESFV,USHKV2,MNYL-Shiksha Plus-Fund,UL,0,Shiksha Plus_2,Child Plan,UL,UL,UL
+UIESPE,USHKV2,MNYL-Shiksha Plus-Premium,UL,0,Shiksha Plus_2,Child Plan,UL,UL,UL
+UIESRE,USHKV2,MNYL-Shiksha Plus-Risk,UL,1,Shiksha Plus_2,Child Plan,UL,UL,UL
+UIESWP,U_SWOP,MNYL-Shiksha Plus-WOP,UL,0,,Child Plan,UL,UL,UL
+UIESF5,USHKV2,MNYL-Shiksha Plus-Fund-5Pay,UL,0,Shiksha Plus_2,Child Plan,UL,UL,UL
+UIESP5,USHKV2,MNYL-Shiksha Plus-Premium-5Pay,UL,0,Shiksha Plus_2,Child Plan,UL,UL,UL
+UIESR5,USHKV2,MNYL-Shiksha Plus-Risk-5Pay,UL,1,Shiksha Plus_2,Child Plan,UL,UL,UL
+UIESW5,U_SWOP,MNYL-Shiksha Plus-WOP-5Pay,UL,0,,Child Plan,UL,UL,UL
+UIHDD,UGDD_R,Dread Disease Rider_New(Pr Driven),UL,0,Dread Disease Rider_New(Pr Driven),Endowment,UL,UL,UL
+EN10S,C_SMB_,MNYL Smart Bond,NPAR,1,Smart Bond,Non Par Savings,Traditional,NPAR,NPAR
+VP00L,C_PPWR,Waiver Of Premium Rider (Par)(Amsure),PAR,0,Waiver Of Premium Rider (Par),Par,Traditional,PAR,PAR
+**RPU,C_NRPU,Reduced Paid Up,PAR,1,RPU,Par,Traditional,PAR,PAR
+ETETI,C_NETI,Extended Term Insurance,PAR,1,ETI,Par,Traditional,PAR,PAR
+UFBF5,U_FFLI,MNYL Flexi Fortune (5 Pay)(Fund),UL,0,Flexi Fortune,Endowment,UL,UL,UL
+UFBR5,U_FFLI,MNYL Flexi Fortune (5 Pay)(Risk),UL,1,Flexi Fortune,Endowment,UL,UL,UL
+UFBP5,U_FFLI,MNYL Flexi Fortune (5 Pay)(Premium),UL,0,Flexi Fortune,Endowment,UL,UL,UL
+UFBF10,U_FFLI,MNYL Flexi Fortune (10 Pay)(Fund),UL,0,Flexi Fortune,Endowment,UL,UL,UL
+UFBR10,U_FFLI,MNYL Flexi Fortune (10 Pay)(Risk),UL,1,Flexi Fortune,Endowment,UL,UL,UL
+UFBP10,U_FFLI,MNYL Flexi Fortune (10 Pay)(Premium),UL,0,Flexi Fortune,Endowment,UL,UL,UL
+UFBF15,U_FFLI,MNYL Flexi Fortune (15 Pay)(Fund),UL,0,Flexi Fortune,Endowment,UL,UL,UL
+UFBR15,U_FFLI,MNYL Flexi Fortune (15 Pay)(Risk),UL,1,Flexi Fortune,Endowment,UL,UL,UL
+UFBP15,U_FFLI,MNYL Flexi Fortune (15 Pay)(Premium),UL,0,Flexi Fortune,Endowment,UL,UL,UL
+UFBDD,UGDD_R,DD Rider Flexi Fortune(Pr Driven),UL,0,DD Rider Flexi Fortune(Pr Driven),Endowment,UL,UL,UL
+UFBAD,UGADBR,PAB Rider Flexi Fortune(Pr Driven),UL,0,PAB Rider Flexi Fortune(Pr Driven),Endowment,UL,UL,UL
+TPCMB,C_PMBP,MNYL College Money Back Plan,PAR,1,College Money Back Plan,Par,Traditional,PAR,PAR
+UHNP10,U_FSTR,MNYL Fast Track Premium (10 Pay),UL,0,Fast Track,Endowment,UL,UL,UL
+UHNIP5,U_FSTR,MNYL Fast Track Premium (5 Pay),UL,0,Fast Track,Endowment,UL,UL,UL
+UHNIPS,U_FSTR,MNYL Fast Track Premium (Single),UL,0,Fast Track,Endowment,UL,UL,UL
+UHNR10,U_FSTR,MNYL Fast Track Risk (10 Pay),UL,1,Fast Track,Endowment,UL,UL,UL
+UHNIR5,U_FSTR,MNYL Fast Track Risk (5 Pay),UL,1,Fast Track,Endowment,UL,UL,UL
+UHNIRS,U_FSTR,MNYL Fast Track Risk (Single),UL,1,Fast Track,Endowment,UL,UL,UL
+UHNF10,U_FSTR,MNYL Fast Track Fund (10 Pay),UL,0,Fast Track,Endowment,UL,UL,UL
+UHNIF5,U_FSTR,MNYL Fast Track Fund (5 Pay),UL,0,Fast Track,Endowment,UL,UL,UL
+UHNIFS,U_FSTR,MNYL Fast Track Fund (Single),UL,0,Fast Track,Endowment,UL,UL,UL
+UAPFV,U_TPGR,MNYL Top Gear,UL,0,Top Gear,Endowment,UL,UL,UL
+UAPFR,U_TPGR,MNYL Top Gear Risk,UL,1,Top Gear,Endowment,UL,UL,UL
+ULHAD,UGADBR,UL ADB Rider,UL,0,UL ADB Rider,Endowment,UL,UL,UL
+ULHDD,UGDD_R,UL DD Rider,UL,0,UL DD Rider,Endowment,UL,UL,UL
+TGM6,C_GMIP,Guaranteed Monthly Income Plan - 6 Pay,NPAR,1,GMIP,Non Par Savings,Traditional,NPAR,NPAR
+TGM11,C_GMIP,Guaranteed Monthly Income Plan - 11 Pay,NPAR,1,GMIP,Non Par Savings,Traditional,NPAR,NPAR
+VPGMI,C_GMIR,Guaranteed Monthly Income Plan - waiver of premium,NPAR,0,Guaranteed Monthly Income Plan - waiver of premium,Non Par Savings,Traditional,NPAR,NPAR
+TNMBP,C_NTRP,Term return of premium,NPAR,1,Premium Return Term Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNADB,C_NTRP,Personal Accident Rider,NPAR,0,Personal Accident Rider,Non Par Protection,Traditional,NPAR,NPAR
+EPFSP,C_FTSC,Amsure future secure,PAR,1,Future Secure,Par,Traditional,PAR,PAR
+EPADB,C_FTSC,Personal Accident Rider,PAR,0,Personal Accident Rider,Par,Traditional,NPAR,NPAR
+VPFSP,C_FTSC,Payor Rider (Par) - Future secure,PAR,0,Payor Rider (Par) - Future secure,Par,Traditional,PAR,PAR
+ULMF07,UL_MXS,Max Life Maxis 7 Pay,UL,0,Maxxis,Endowment,UL,UL,UL
+ULMP07,UL_MXS,Max Life Maxis 7 Pay Premium,UL,0,Maxxis,Endowment,UL,UL,UL
+ULMR07,UL_MXS,Max Life Maxis 7 Pay Risk,UL,1,Maxxis,Endowment,UL,UL,UL
+ULMF10,UL_MXS,Max Life Maxis 10 Pay,UL,0,Maxxis,Endowment,UL,UL,UL
+ULMP10,UL_MXS,Max Life Maxis 10 Pay Premium,UL,0,Maxxis,Endowment,UL,UL,UL
+ULMR10,UL_MXS,Max Life Maxis 10 Pay Risk,UL,1,Maxxis,Endowment,UL,UL,UL
+ULMHAD,UGADBR,Max Life Maxis Pr Driven ADB Rider,UL,0,Max Life Maxis Pr Driven ADB Rider,Endowment,UL,UL,UL
+ULMHDD,UGDD_R,Max Life Maxis DD rider,UL,0,Max Life Maxis DD rider,Endowment,UL,UL,UL
+ULMT10,UL_MXT,Max Life Maxis Top Up 10 pay,UL,0,Max Life Maxis Top Up 10 pay,Endowment,UL,UL,UL
+ULMT07,UL_MXT,Max Life Maxis Top Up 7 pay,UL,0,Max Life Maxis Top Up 7 pay,Endowment,UL,UL,UL
+UPPRPF,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Regular Pay,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPRPP,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Regular Pay (P,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPRPR,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Regular Pay (R,UL,1,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPRPT,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Regular Pay - ,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSRR,UP_PCR,Max Life PARTNER CARE RIDER,UL,0,Max Life PARTNER CARE RIDER,Endowment,UL,UL,UL
+UIPSRR,UP_PCR,Max Life PARTNER CARE RIDER,UL,0,Max Life PARTNER CARE RIDER,Endowment,UL,UL,UL
+UPPSCF,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - P,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSCP,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - P,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSCR,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - P,UL,1,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSCT,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - P,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSPF,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - N,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSPP,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - N,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSPR,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - N,UL,1,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+UPPSPT,UPFYPP,Max Life FOREVER YOUNG PENSION PLAN Single Pay - N,UL,0,Forever Young Pension Plan,Pension,UL,UL Pension,UL Pension
+IAL,CNAGLP,Max Life Guaranteed Lifetime Income Plan,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IALC,CNAGLP,Max Life Guaranteed Lifetime Income Plan (Commissi,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IALJ,CNAGLP,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IALJC,CNAGLP,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IALJRP,CNAGLR,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate & Deferred Annuity,Annuity,Traditional,NPAR,NPAR
+IALRJC,CNAGLR,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate & Deferred Annuity,Annuity,Traditional,NPAR,NPAR
+IALROP,CNAGLR,Max Life Guaranteed Lifetime Income Plan - ROP,NPAR,0,Immediate & Deferred Annuity,Annuity,Traditional,NPAR,NPAR
+IALRPC,CNAGLR,Max Life Guaranteed Lifetime Income Plan - ROP (Co,NPAR,0,Immediate & Deferred Annuity,Annuity,Traditional,NPAR,NPAR
+EPFSP2,C_PFS2,Max Life Future Secure 2,PAR,1,Future Secure 2,Par,Traditional,PAR,PAR
+EPADB2,C_PFS2,Max Life Future Secure 2 Accidental Death Benefit,PAR,0,Max Life Future Secure 2 Accidental Death Benefit,Par,Traditional,PAR,PAR
+VPFSP2,C_PFS2,Max Life Payor Rider Future Secure 2,PAR,0,Max Life Payor Rider Future Secure 2,Par,Traditional,PAR,PAR
+TNPP2,C_NPP2,Max Life Platinum Protect II,NPAR,1,Platinum Protect 2,Non Par Protection,Traditional,NPAR,NPAR
+VPLPP,C_PPYR,Max Life Payor Rider New,PAR,0,Max Life Payor Rider New,Par,Traditional,PAR,PAR
+VPCMB,C_PPYR,Max Life Payor Rider New,PAR,0,Max Life Payor Rider New,Par,Traditional,PAR,PAR
+TNOTP,C_NOTP,Max Life Online Term Plan - Sum Assured NC,NPAR,1,OTP,Non Par Protection,Traditional,NPAR,NPAR
+TOTPMI,C_NOTP,Max Life Online Term Plan - Sum Assured plus Incre,NPAR,1,OTP,Non Par Protection,Traditional,NPAR,NPAR
+TOTPM,C_NOTP,Max Life Online Term Plan - Sum Assured plus Level,NPAR,1,OTP,Non Par Protection,Traditional,NPAR,NPAR
+TNPAB,C_NCAB,Max Life Comprehensive Accident Benefit Rider NC,NPAR,0,Max Life Comprehensive Accident Benefit Rider NC,Non Par Protection,Traditional,NPAR,NPAR
+LPPS10,C_LPPS,Max Life Life Perfect Partner Super - 10 Pay,PAR,1,Life perfect partner super,Par,Traditional,PAR,PAR
+LPPS15,C_LPPS,Max Life Life Perfect Partner Super - 15 Pay,PAR,1,Life perfect partner super,Par,Traditional,PAR,PAR
+LPPS20,C_LPPS,Max Life Life Perfect Partner Super - 20 Pay,PAR,1,Life perfect partner super,Par,Traditional,PAR,PAR
+LPPS07,C_LPPS,Max Life Life Perfect Partner Super - 7 Pay,PAR,1,Life perfect partner super,Par,Traditional,PAR,PAR
+WP010,C_WLPS,Max Whole Life Super 10 Pay,PAR,1,Whole Life Super ,Par,Traditional,PAR,PAR
+WP015,C_WLPS,Max Whole Life Super 15 Pay,PAR,1,Whole Life Super ,Par,Traditional,PAR,PAR
+WP020,C_WLPS,Max Whole Life Super 20 Pay,PAR,1,Whole Life Super ,Par,Traditional,PAR,PAR
+TNMBP2,C_NPRP,Max Life Premium Return Protection Plan,NPAR,1, Premium Return Protection Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNADB2,C_NPRP,Max Life Accidental Death Benefit Premium Return P,NPAR,0,Max Life Accidental Death Benefit Premium Return P,Non Par Protection,Traditional,NPAR,NPAR
+EPR156,C_LGPS,Max Life Life Gain Premier 15 Yr 6 Pay,PAR,1, Life Gain Premier ,Par,Traditional,PAR,PAR
+EPR158,C_LGPS,Max Life Life Gain Premier 15 Yr 8 Pay,PAR,1, Life Gain Premier ,Par,Traditional,PAR,PAR
+EPR208,C_LGPS,Max Life Life Gain Premier 20 Yr 8 Pay,PAR,1, Life Gain Premier ,Par,Traditional,PAR,PAR
+EPR212,C_LGPS,Max Life Life Gain Premier 25 Yr 12 Pay,PAR,1, Life Gain Premier ,Par,Traditional,PAR,PAR
+EPN206,C_LGPS,Max Life Life Gain Premier 20 Yr 6 Pay,PAR,1, Life Gain Premier ,Par,Traditional,PAR,PAR
+EPN210,C_LGPS,Max Life Life Gain Premier 20 Yr 10 Pay,PAR,1, Life Gain Premier ,Par,Traditional,PAR,PAR
+U2MF07,U_MXSS,Max Life Maxis Super 7 Pay,UL,0, Maxis Super ,Endowment,UL,UL,UL
+U2MP07,U_MXSS,Max Life Maxis Super 7 Pay Premium,UL,0, Maxis Super ,Endowment,UL,UL,UL
+U2MR07,U_MXSS,Max Life Maxis Super 7 Pay Risk,UL,1, Maxis Super ,Endowment,UL,UL,UL
+U2MF10,U_MXSS,Max Life Maxis Super 10 Pay,UL,0, Maxis Super ,Endowment,UL,UL,UL
+U2MP10,U_MXSS,Max Life Maxis Super 10 Pay Premium,UL,0, Maxis Super ,Endowment,UL,UL,UL
+U2MR10,U_MXSS,Max Life Maxis Super 10 Pay Risk,UL,1, Maxis Super ,Endowment,UL,UL,UL
+U2NIF5,UFSTR2,Max Life Fast Track Super 5 Pay,UL,0,Fast Track Super ,Endowment,UL,UL,UL
+U2NIP5,UFSTR2,Max Life Fast Track Super Premium 5 Pay,UL,0,Fast Track Super ,Endowment,UL,UL,UL
+U2NIR5,UFSTR2,Max Life Fast Track Super Risk 5 Pay,UL,1,Fast Track Super ,Endowment,UL,UL,UL
+U2NIFS,UFSTR2,Max Life Fast Track Super Single Pay,UL,0,Fast Track Super ,Endowment,UL,UL,UL
+U2NIPS,UFSTR2,Max Life Fast Track Super Premium Single Pay,UL,0,Fast Track Super ,Endowment,UL,UL,UL
+U2NIRS,UFSTR2,Max Life Fast Track Super Risk Single Pay,UL,1,Fast Track Super ,Endowment,UL,UL,UL
+U2NF20,UFSTR2,Max Life Fast Track Super Regular Pay,UL,0,Fast Track Super ,Endowment,UL,UL,UL
+U2NP20,UFSTR2,Max Life Fast Track Super Premium Regular Pay,UL,0,Fast Track Super ,Endowment,UL,UL,UL
+U2NR20,UFSTR2,Max Life Fast Track Super Risk Regular Pay,UL,1,Fast Track Super ,Endowment,UL,UL,UL
+U2ESFV,U_SHPS,Max Life Shiksha Plus Super (Regular Pay),UL,0,Shiksha Plus super,Child Plan,UL,UL,UL
+U2ESPE,U_SHPS,Max Life Shiksha Plus Super Premium (Regular Pay),UL,0,Shiksha Plus super,Child Plan,UL,UL,UL
+U2ESRE,U_SHPS,Max Life Shiksha Plus Super Risk (Regular Pay),UL,1,Shiksha Plus super,Child Plan,UL,UL,UL
+U2ESWP,U_SWOP,Max Life Shiksha Plus Super FOP (Regular Pay),UL,0,Max Life Shiksha Plus Super FOP (Regular Pay),Child Plan,UL,UL,UL
+U2ESF5,U_SHPS,Max Life Shiksha Plus Super (5 Pay),UL,0,Shiksha Plus super,Child Plan,UL,UL,UL
+U2ESP5,U_SHPS,Max Life Shiksha Plus Super Premium (5 Pay),UL,0,Shiksha Plus super,Child Plan,UL,UL,UL
+U2ESR5,U_SHPS,Max Life Shiksha Plus Super Risk (5 Pay),UL,1,Shiksha Plus super,Child Plan,UL,UL,UL
+U2ESW5,U_SWOP,Max Life Shiksha Plus Super FOP (5 Pay),UL,0,Max Life Shiksha Plus Super FOP (5 Pay),Child Plan,UL,UL,UL
+TGIP6,C_NGIP,Max Life Guaranteed Income PLan (6 pay),NPAR,1,GIP 6 pay,Non Par Savings,Traditional,NPAR,NPAR
+TGIP12,C_NGIP,Max Life Guaranteed Income PLan (12 pay),NPAR,1,GIP 12 pay,Non Par Savings,Traditional,NPAR,NPAR
+TFSTP,C_NSTP,Max Life Super Term Plan,NPAR,1,Super Term Plan,Non Par Protection,Traditional,NPAR,NPAR
+TSSTP,C_NSTP,Max Life Super Term increasing sum assured Plan,NPAR,1,Super Term Plan,Non Par Protection,Traditional,NPAR,NPAR
+ESMI12,C_PMIA,Max Life Monthly Income Advantage Plan 12 pay,PAR,1,Max Life Monthly Income Advantage Plan,Par,Traditional,PAR,PAR
+ESMI15,C_PMIA,Max Life Monthly Income Advantage Plan 15 pay,PAR,1,Max Life Monthly Income Advantage Plan,Par,Traditional,PAR,PAR
+UIPWFS,U_PWPL,Max Life Platinum Wealth (Single Pay),UL,0,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWPS,U_PWPL,Max Life Platinum Wealth Premium (Single Pay),UL,0,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWRS,U_PWPL,Max Life Platinum Wealth Risk (Single Pay),UL,1,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWF5,U_PWPL,Max Life Platinum Wealth (5 Pay),UL,0,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWP5,U_PWPL,Max Life Platinum Wealth Premium (5 Pay),UL,0,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWR5,U_PWPL,Max Life Platinum Wealth Risk (5 Pay),UL,1,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWfr,U_PWPL,Max Life Platinum Wealth Regular Pay,UL,0,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWPR,U_PWPL,Max Life Platinum Wealth Premium Regular Pay Premi,UL,0,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+UIPWRR,U_PWPL,Max Life Platinum Wealth Premium Regular Pay Risk,UL,1,Max Life Platinum Wealth ,Endowment,UL,UL,UL
+DNCCP,C_NCIP,Max Life Cancer Insurance Plan,Heal,0,Max Life Cancer Insurance Plan,Health,Health,HEALTH,HEALTH
+DCCCP,C_NCIP,Max Life Cancer Insurance Plan- Online ,Heal,0,Max Life Cancer Insurance Plan,Health,Health,HEALTH,HEALTH
+TCOTP,CNOTPP,Max Life Online Term Plan Plus- Sum Assured,NPAR,1,OTP Plus,Non Par Protection,Traditional,NPAR,NPAR
+TCTPM,CNOTPP,Max Life Online Term Plan Plus - Sum Assured plus ,NPAR,1,OTP Plus,Non Par Protection,Traditional,NPAR,NPAR
+TCTPMI,CNOTPP,Max Life Online Term  Plan Plus - Sum Assured plus,NPAR,1,OTP Plus,Non Par Protection,Traditional,NPAR,NPAR
+EFGEP8,C_FGEP,Max Life Future Genius Education Plan 8 Pay,PAR,1,FGEP,Par,Traditional,PAR,PAR
+EFGEPL,C_FGEP,Max Life Future Genius Education Plan Limited Pay,PAR,1,FGEP,Par,Traditional,PAR,PAR
+TG2P6,C_NGI2,Max Life Guaranteed Income Plan(6 Pay)_New ,NPAR,1,GIP 6 pay New,Non Par Savings,Traditional,NPAR,NPAR
+TG2P12,C_NGI2,Max Life Guaranteed Income Plan(12 Pay)_New ,NPAR,1,GIP 12 pay New,Non Par Savings,Traditional,NPAR,NPAR
+TNOTP2,CNOTP2,Max Life Online Term Plan Plus_NC_New,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TANOTH,CNOTP2,Max Life Online Term Plan Plus_Benefit_Loan_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TNOT60,CNOTP2,Max Life Online Term Plan Plus_60_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TNCPAB,C_NCAB,Max Life Comprehensive Accident Benefit Rider_NC,NPAR,0,Max Life Comprehensive Accident Benefit Rider NC- OTPP2,Non Par Protection,Traditional,NPAR,NPAR
+VN04,C_WPRO,Max Life Waiver Of Premium Plus Rider_NC,NPAR,0,WOP Plus -OTPP2,Non Par Protection,Traditional,NPAR,NPAR
+VCWOP,C_WPRO,Max Life Payor Rider (WOP Plus)_NC,NPAR,0,WOP Plus -OTPP2,Non Par Protection,Traditional,NPAR,NPAR
+TBNOTM,CNOTP2,Max Life Online Term Plan Plus_Benefit_Marriage_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TBNOC1,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child1_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TBNOC2,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child2_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TBNOTH,CNOTP2,Max Life Online Term Plan Plus_Benefit_Loan_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TCOTP2,CNOTP2,Max Life Online Term Plan Plus_CO_New,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TACOTM,CNOTP2,Max Life Online Term Plan Plus_Benefit_Marriage_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TACOC1,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child1_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TACOC2,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child2_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TACOTH,CNOTP2,Max Life Online Term Plan Plus_Benefit_Loan_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TCOT60,CNOTP2,Max Life Online Term Plan Plus_60_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TCCPAB,C_NCAB,Max Life Comprehensive Accident Benefit Rider_CO,NPAR,0,Max Life Comprehensive Accident Benefit Rider CO- OTPP2,Non Par Protection,Traditional,NPAR,NPAR
+VN05,C_WPRO,Max Life Waiver Of Premium Plus Rider_CO,NPAR,0,WOP Plus -OTPP2,Non Par Protection,Traditional,NPAR,NPAR
+VAWOP,C_WPRO,Max Life Payor Rider (WOP Plus)_CO,NPAR,0,WOP Plus -OTPP2,Non Par Protection,Traditional,NPAR,NPAR
+TBCOTM,CNOTP2,Max Life Online Term Plan Plus_Benefit_Marriage_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TBCOC1,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child1_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TBCOC2,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child2_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TBCOTH,CNOTP2,Max Life Online Term Plan Plus_Benefit_Loan_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TNCIB,CNOTP2,Max Life Critical Benefit Rider_NC   ,NPAR,0,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TCCIB,CNOTP2,Max Life Critical Benefit Rider_CO,NPAR,0,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TANOTM,CNOTP2,Max Life Online Term Plan Plus_Benefit_Marriage_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TANOC1,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child1_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TANOC2,CNOTP2,Max Life Online Term Plan Plus_Benefit_Child2_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TAWP5,C_NAWP,Max Life Assured Wealth Plan,NPAR,1,Assured Wealth Plan,Non Par Savings,Traditional,NPAR,NPAR
+TGBP5,C_GAWP,Max Life POS Guaranteed Benefits Plan,NPAR,1,POS Guaranteed Benefits Plan,Non Par Savings,Traditional,NPAR,NPAR
+UCOSWF,UL_OSP,Max Life Online Savings Plan Wealth Solution_Co,UL,0,OSP,Online Savings,UL,UL,UL
+UCOSWR,UL_OSP,Max Life Online Savings Plan Wealth Solution_Co Ri,UL,1,OSP,Online Savings,UL,UL,UL
+UCOSWP,UL_OSP,Max Life Online Savings Plan Wealth Solution_Co Pr,UL,0,OSP,Online Savings,UL,UL,UL
+UCOSCF,UL_OSP,Max Life Online Savings Plan Child Solution_Co ,UL,0,OSP,Online Savings,UL,UL,UL
+UCOSCR,UL_OSP,Max Life Online Savings Plan Child Solution_Co Ris,UL,1,OSP,Online Savings,UL,UL,UL
+UCOSCP,UL_OSP,Max Life Online Savings Plan Child Solution_Co Pre,UL,0,OSP,Online Savings,UL,UL,UL
+USCWOP,UL_OSP,Max Life Online Savings FOP Child Solution,UL,0,OSP,Online Savings,UL,UL,UL
+UNOSWF,UL_OSP,Max Life Online Savings Plan Wealth Solution_NC,UL,0,OSP,Online Savings,UL,UL,UL
+UNOSER,UL_OSP,Max Life Online Savings Plan Wealth Solution_NC Ri,UL,1,OSP,Online Savings,UL,UL,UL
+UNOSWP,UL_OSP,Max Life Online Savings Plan Wealth Solution_NC Pr,UL,0,OSP,Online Savings,UL,UL,UL
+UNOSCF,UL_OSP,Max Life Online Savings Plan Child Solution_NC,UL,0,OSP,Online Savings,UL,UL,UL
+UNOSCR,UL_OSP,Max Life Online Savings Plan Child Solution_NC Ris,UL,1,OSP,Online Savings,UL,UL,UL
+UNOSCP,UL_OSP,Max Life Online Savings Plan Child Solution_NC Pre,UL,0,OSP,Online Savings,UL,UL,UL
+EPRSCL,C_PSAP,Max Life Savings Advantage Limited Pay Long Term P,PAR,1,Saving Advantage Plan,Par,Traditional,PAR,PAR
+EPRSCT,C_PSAP,Max Life Savings Advantage Limited Pay Short Term ,PAR,1,Saving Advantage Plan,Par,Traditional,PAR,PAR
+EPRSCR,C_PSAP,Max Life Savings Advantage Regular Pay Plan-CO,PAR,1,Saving Advantage Plan,Par,Traditional,PAR,PAR
+EPRSCS,C_PSAP,Max Life Savings Advantage Single Pay Plan-CO,PAR,1,Saving Advantage Plan,Par,Traditional,PAR,PAR
+UNHAR,UHNILP,Max Life Life Invest Additional Risk,UL,1,Life Invest,UL,UL,UL,UL
+UATOP,U_TPGR,Max Life Top up Top gear,UL,0,Top Gear,UL,UL,UL,UL
+UNOSWR,UL_OSP,Max Life Online Savings Plan Wealth Solution_NC Ri,UL,1,OSP,Online Savings,UL,UL,UL
+TCPTPR,C_NSUT,Max Life Smart Term Plan_Regular_CO,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCPTPL,C_NSUT,Max Life Smart Term Plan_Limited_CO,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCPTPS,C_NSUT,Max Life Smart Term Plan_Single,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCPT60,C_NSUT,Max Life Smart Term Plan_60 Pay_CO,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCPTRR,C_NSUT,Max Life Smart Term Plan_Return_Regular_CO,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCPTRL,C_NSUT,Max Life Smart Term Plan_Return_Limited_CO,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCPTRS,C_NSUT,Max Life Smart Term Plan_Return_Single,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCPR60,C_NSUT,Max Life Smart Term Plan_Return_60 Pay_CO,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPTPR,C_NSUT,Max Life Smart Term Plan_Regular_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPT60,C_NSUT,Max Life Smart Term Plan_60 Pay_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPTPL,C_NSUT,Max Life Smart Term Plan_Limited_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPTPS,C_NSUT,Max Life Smart Term Plan_Single_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPTRR,C_NSUT,Max Life Smart Term Plan_Return_Regular_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPR60,C_NSUT,Max Life Smart Term Plan_Return_60 Pay_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPTRL,C_NSUT,Max Life Smart Term Plan_Return_Limited_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNPTRS,C_NSUT,Max Life Smart Term Plan_Return_Single_NC,NPAR,1,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNOTPL,CNOTP2,Max Life Online Term Plan Plus_60_NC,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+TCOTPL,CNOTP2,Max Life Online Term Plan Plus_60_CO,NPAR,1,OTPP 2,Non Par Protection,Traditional,NPAR,NPAR
+ESMI8,C_PMIA,Max Life Monthly Income Advantage Plan 8 pay,PAR,1,Max Life Monthly Income Advantage Plan,Par,Traditional,PAR,PAR
+IAJ,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IAJC,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IAJR,CNAIDR,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate & Deferred Annuity,Annuity,Traditional,NPAR,NPAR
+IAJRC,CNAIDR,Max Life Guaranteed Lifetime Income Plan-Joint Lif,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IAS,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Single ,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IASC,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Single ,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IASR,CNAIDR,Max Life Guaranteed Lifetime Income Plan - Single ,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+IASRC,CNAIDR,Max Life Guaranteed Lifetime Income Plan-Single Li,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+TDAJ,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+TDAJC,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Joint L,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+TDAS,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Single ,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+TDASC,CNAIDP,Max Life Guaranteed Lifetime Income Plan - Single ,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+TAWPL,CNAWP3,Max Life Assured Wealth Plan Limited Pay,NPAR,1,Assured Wealth Plan,Non Par Savings,Traditional,NPAR,NPAR
+UFIPPL,U_FIPP,Max Life Flexi Wealth Plus Premium (Limited Pay)  ,UL,0,Flexi Invest,UL,UL,UL,UL
+UFIPRL,U_FIPP,Max Life Flexi Wealth Plus Risk (Limited Pay)     ,UL,1,Flexi Invest,UL,UL,UL,UL
+UFIPPR,U_FIPP,Max Life Flexi Wealth Plus Premium (Regular Pay)  ,UL,0,Flexi Invest,UL,UL,UL,UL
+UFIPRR,U_FIPP,Max Life Flexi Wealth Plus Risk (Regular Pay)     ,UL,1,Flexi Invest,UL,UL,UL,UL
+UFIPPS,U_FIPP,Max Life Flexi Wealth Plus Premium (Single Pay)   ,UL,0,Flexi Invest,UL,UL,UL,UL
+UFIPRS,U_FIPP,Max Life Flexi Wealth Plus Risk (Single Pay)      ,UL,1,Flexi Invest,UL,UL,UL,UL
+UFIPPW,U_FIPP,Max Life Flexi Wealth Plus Premium_Whole Life (Lim,UL,0,Flexi Invest,UL,UL,UL,UL
+UFIPRW,U_FIPP,Max Life Flexi Wealth Plus Risk_Whole Life (Limite,UL,1,Flexi Invest,UL,UL,UL,UL
+UFIPFL,U_FIPP,Max Life Flexi Wealth Plus (Limited Pay),UL,0,Flexi Invest,UL,UL,UL,UL
+UFIPFR,U_FIPP,Max Life Flexi Wealth Plus (Regular Pay),UL,0,Flexi Invest,UL,UL,UL,UL
+UFIPFS,U_FIPP,Max Life Flexi Wealth Plus (Single Pay),UL,0,Flexi Invest,UL,UL,UL,UL
+UFIPFW,U_FIPP,Max Life Flexi Wealth Plus_Whole Life (Limited Pay,UL,0,Flexi Invest,UL,UL,UL,UL
+UFTP10,U_FIPP,MNYL Flexi Fortune Top up (10 Pay),UL,0,Flexi Invest,UL,UL,UL,UL
+IAL20,CNAG20,Max Life Guaranteed Lifetime Income Plan 20,NPAR,0,Immediate Annuity,Annuity,Traditional,NPAR,NPAR
+TSWPPL,C_NSWP,Max Life Smart Wealth - Lump Sum - Limited Pay Pla,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWPPR,C_NSWP,Max Life Smart Wealth - Lump Sum - Regular Pay Pla,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWPVL,C_NSWP,Max Life Smart Wealth - Lump Sum - Limited Pay - P,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWPVR,C_NSWP,Max Life Smart Wealth - Lump Sum - Regular Pay - P,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWPTL,C_NSWP,Max Life Smart Wealth - Long Term Plan (Non - Par),NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWPTS,C_NSWP,Max Life Smart Wealth - Short Term Plan (Non - Par,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TCLCIB,C_NSUT,Max Life Accelerated Critical Illness Benefit-LEVE,NPAR,0,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TCICIB,C_NSUT,Max Life Accelerated Critical Illness Benefit- INC,NPAR,0,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TSWPW1,CNASWP,Max Life Smart Wealth whole life - First Life  - S,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWPW2,CNASWP,Max Life Smart Wealth whole life - Second Life - S,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+ESMIL,CPMIA6,Max Life Monthly Income Advantage Plan - Limited P,PAR,0,Max Life Monthly Income Advantage Plan,Par,Traditional,PAR,PAR
+TSJBR,C_SJB_,Max Life Saral Jeevan Bima Plan - Regular Pay,NPAR,0,Saral Jeevan Bima Plan,Non Par Protection,Traditional,NPAR,NPAR
+TSJBL,C_SJB_,Max Life Saral Jeevan Bima Plan - Limited Pay,NPAR,0,Saral Jeevan Bima Plan,Non Par Protection,Traditional,NPAR,NPAR
+TSJBS,C_SJB_,Max Life Saral Jeevan Bima Plan - Single Pay,NPAR,0,Saral Jeevan Bima Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCADB,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCILB,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCSR60,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCST60,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCSTPL,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCSTPR,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCSTRL,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCSTRR,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNSR60,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNST60,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNSTPL,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNSTPR,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNSTRL,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNSTRR,C_NSSP,Smart Secure Plus Plan,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCPADB,C_NSUT,Max Life  Accidental Cover Rider,NPAR,0,NSUT,Non Par Protection,Traditional,NPAR,NPAR
+TNSTRS,C_NSSP,Max Life Smart Secure Plus Plan_Return_Single_Onli,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCSTRS,C_NSSP,Max Life Smart Secure Plus Plan_Return_Single_Offl,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TCSTPS,C_NSSP,Max Life Smart Secure Plus Plan_Single_Offline,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TNSTPS,C_NSSP,Max Life Smart Secure Plus Plan_Single_Online,NPAR,0,Smart Secure Plus Plan,Non Par Protection,Traditional,NPAR,NPAR
+TIAJRC,C_SPP_,Max Life Saral Pension Plan - Joint Life Immediate,NPAR,0,Saral Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIASR,C_SPP_,Max Life Saral Pension Plan - Single Life Immediat,NPAR,0,Saral Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIASRC,C_SPP_,Max Life Saral Pension Plan - Single Life Immediat,NPAR,0,Saral Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIAJR,C_SPP_,Max Life Saral Pension Plan - Joint Life Immediate,NPAR,0,Saral Pension Plan,Annuity,Traditional,NPAR,NPAR
+TSPCB,C_SWIP_PCB,PCB Rider,PAR,0,Smart Wealth Income Plan,Par,Traditional,PAR,PAR
+TSWDI,C_SWIP,SWIP Deferred Income,PAR,0,Smart Wealth Income Plan,Par,Traditional,PAR,PAR
+TSWDIB,C_SWIP,SWIP Deferred Income with PCB,PAR,0,Smart Wealth Income Plan,Par,Traditional,PAR,PAR
+TSWEI,C_SWIP,SWIP Early Income,PAR,0,Smart Wealth Income Plan,Par,Traditional,PAR,PAR
+TSWEIB,C_SWIP,SWIP Early income PCB,PAR,0,Smart Wealth Income Plan,Par,Traditional,PAR,PAR
+TSWEM,C_SWIP,SWIP Money Back,PAR,0,Smart Wealth Income Plan,Par,Traditional,PAR,PAR
+TSWEMB,C_SWIP,SWIP Money Back PCB,PAR,0,Smart Wealth Income Plan,Par,Traditional,PAR,PAR
+TSWVTL,CNSWP5,Max Life Smart Wealth - Long Term Plan - POS Plan ,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWVTS,CNSWP5,Max Life Smart Wealth - Short Term Plan - POS Plan,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWRW1,CNASW5,Max Life Smart Wealth whole life - First Life - Re,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWRW2,CNASW5,Max Life Smart Wealth whole life - Second Life - R,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TIAGSR,C_NSGR,Max Life Smart Guaranteed Pension Plan - Single Li,NPAR,0,Max Life Smart Guaranteed Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIAGJR,C_NSGR,Max Life Smart Guaranteed Pension Plan - Joint Lif,NPAR,0,Max Life Smart Guaranteed Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIAGS,C_NSGP,Max Life Smart Guaranteed Pension Plan - Single Li,NPAR,0,Max Life Smart Guaranteed Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIAGJ,C_NSGP,Max Life Smart Guaranteed Pension Plan - Joint Lif,NPAR,0,Max Life Smart Guaranteed Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIAGSF,C_NSGR,Max Life Smart Guaranteed Pension Plan - Single Li,NPAR,0,Max Life Smart Guaranteed Pension Plan,Annuity,Traditional,NPAR,NPAR
+TIAGJF,C_NSGR,Max Life Smart Guaranteed Pension Plan - Joint Lif,NPAR,0,Max Life Smart Guaranteed Pension Plan,Annuity,Traditional,NPAR,NPAR
+UFWAFL,U_FWAP,Max Life Flexi Wealth Advantage (Limited Pay),UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWAFR,U_FWAP,Max Life Flexi Wealth Advantage (Regular Pay),UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWAFS,U_FWAP,Max Life Flexi Wealth Advantage (Single Pay),UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWAFW,U_FWAP,Max Life Flexi Wealth Advantage - Whole Life (Limi,UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWAPL,U_FWAP,Max Life Flexi Wealth Advantage Premium (Limited P,UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWAPR,U_FWAP,Max Life Flexi Wealth Advantage Premium (Regular P,UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWAPS,U_FWAP,Max Life Flexi Wealth Advantage Premium (Single Pa,UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWAPW,U_FWAP,Max Life Flexi Wealth Advantage Premium - Whole Li,UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWARL,U_FWAP,Max Life Flexi Wealth Advantage Risk (Limited Pay),UL,1,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWARR,U_FWAP,Max Life Flexi Wealth Advantage Risk (Regular Pay),UL,1,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWARS,U_FWAP,Max Life Flexi Wealth Advantage Risk (Single Pay),UL,1,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+UFWARW,U_FWAP,Max Life Flexi Wealth Advantage Risk - Whole Life ,UL,1,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+ULWP,U_FWAP_WOP,Max Life Wavier of Premium - ULIP,UL,0,Max Life Flexi Wealth Advantage,UL,UL,UL,UL
+TSFDGS,C_SFRD,Max Life Smart Fixed Return Digital Plan - Gold (S,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TSFDG1,C_SFRD,Max Life Smart Fixed Return Digital Plan - First L,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TSFDG2,C_SFRD,Max Life Smart Fixed Return Digital Plan - Second ,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TSFDPL,C_SFRD,Max Life Smart Fixed Return Digital Plan - Platinu,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TSFDPR,C_SFRD,Max Life Smart Fixed Return Digital Plan - Platinu,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TSFDTL,C_SFRD,Max Life Smart Fixed Return Digital Plan - Titaniu,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TSFDTR,C_SFRD,Max Life Smart Fixed Return Digital Plan - Titaniu,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TPFDGS,C_SFRD,Max Life Smart Fixed Return Digital  POS Plan - Go,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TPFDG1,C_SFRD,Max Life Smart Fixed Return Digital  POS Plan - Fi,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TPFDG2,C_SFRD,Max Life Smart Fixed Return Digital  POS Plan - Se,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TPFDPL,C_SFRD,Max Life Smart Fixed Return Digital  POS Plan - Pl,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TPFDPR,C_SFRD,Max Life Smart Fixed Return Digital  POS Plan - Pl,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TPFDTL,C_SFRD,Max Life Smart Fixed Return Digital  POS Plan - Ti,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TPFDTR,C_SFRD,Max Life Smart Fixed Return Digital  POS Plan - Ti,NPAR,0,SFRD,Non Par Savings,Traditional,NPAR,NPAR
+TSSEPL,CNSSE4,Max Life Smart Secure Easy Solution (Limited Pay) ,NPAR,0,Max Life Smart Secure Easy Solution,Non Par Protection,Traditional,NPAR,NPAR
+TSSERL,CNSSE4,Max Life Smart Secure Easy Solution – Return (Limi,NPAR,0,Max Life Smart Secure Easy Solution,Non Par Protection,Traditional,NPAR,NPAR
+UFISFL,USFPS2,Max Life Smart Flexi Protect Solution (Limited Pay,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFISPL,USFPS2,Max Life Smart Flexi Protect Solutions Premium (Li,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFISRL,USFPS2,Max Life Smart Flexi Protect Solution Risk (Limite,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFISFR,USFPS2,Max Life Smart Flexi Protect Solution (Regular Pay,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFISPR,USFPS2,Max Life Smart Flexi Protect Solutions Premium (Re,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFISRR,USFPS2,Max Life Smart Flexi Protect Solution Risk (Regula,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFINFL,USFPS2,Max Life Smart Flexi Protect Solution - Online (Li,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFINPL,USFPS2,Max Life Smart Flexi Protect Solutions Premium - O,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFINRL,USFPS2,Max Life Smart Flexi Protect Solution Risk - Onlin,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFINFR,USFPS2,Max Life Smart Flexi Protect Solution - Online (Re,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFINPR,USFPS2,Max Life Smart Flexi Protect Solutions Premium - O,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+UFINRR,USFPS2,Max Life Smart Flexi Protect Solution Risk - Onlin,UL,0,Max Life Smart Flexi Protect Solution,UL,UL,UL,UL
+IASRP,CNAR14,GLIPv14,NPAR,0,Guaranteed Lifetime Income Plan,Annuity,Traditional,NPAR,NPAR
+TDASN,CNAR14,GLIPv14,NPAR,0,Guaranteed Lifetime Income Plan,Annuity,Traditional,NPAR,NPAR
+TDAJN,CNAR14,GLIPv14,NPAR,0,Guaranteed Lifetime Income Plan,Annuity,Traditional,NPAR,NPAR
+TDASNC,CNAR14,GLIPv14,NPAR,0,Guaranteed Lifetime Income Plan,Annuity,Traditional,NPAR,NPAR
+TDAJNC,CNAR14,GLIPv14,NPAR,0,Guaranteed Lifetime Income Plan,Annuity,Traditional,NPAR,NPAR
+TSEP60,CNSSE4,Max Life Smart Secure Easy Solution (Pay till 60) ,NPAR,0,Max Life Smart Secure Easy Solution,Non Par Protection,Traditional,NPAR,NPAR
+TSER60,CNSSE4,Max Life Smart Secure Easy Solution – Return (Pay ,NPAR,0,Max Life Smart Secure Easy Solution,Non Par Protection,Traditional,NPAR,NPAR
+TSGMS,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Wealth,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGML,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Wealth,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGMB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Wealth,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGRL,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Regula,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGRB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Regula,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGLL,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Long T,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGLB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Long T,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGEL,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Early ,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGELB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Early ,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGER,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Early ,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGERB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Early ,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSGWL,C_NSWAG,Max Life Smart Wealth Advantage Guarantee - Whole ,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TPSGMS,C_NSWAG,Max Life Smart Wealth Advantage Guarantee-Wealth M,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TPSGML,C_NSWAG,Max Life Smart Wealth Advantage Guarantee-Wealth M,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TPSGMB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee-Wealth M,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TPSGRL,C_NSWAG,Max Life Smart Wealth Advantage Guarantee-Regular ,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TPSGRB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee-Regular ,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TPSGER,C_NSWAG,Max Life Smart Wealth Advantage Guarantee-Early We,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TPSERB,C_NSWAG,Max Life Smart Wealth Advantage Guarantee-Early We,NPAR,0,Max Life Smart Wealth Advantage Guarantee Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSPIFB,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-In,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPIF,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-In,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPIW,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-In,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPIWB,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-In,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPBFB,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Ba,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPBF,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Ba,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPBW,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Ba,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPBWB,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Ba,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPFFB,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Fu,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPFF,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Fu,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPFW,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Fu,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPFWB,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Fu,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPLW,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Li,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSPLWB,C_PSWAG,Max Life Smart Wealth Advantage Growth Par Plus-Li,PAR,0,Max Life Smart Wealth Advantage Growth Par Plus Plan,Par,Traditional,PAR,PAR
+TSWPLR,CNSWP10,Max Life Smart Wealth - Long Term Plan Regular (No,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSWVLR,CNSWP10,Max Life Smart Wealth - Long Term Plan Regular - P,NPAR,0,Smart Wealth,Non Par Savings,Traditional,NPAR,NPAR
+TSEWAL,C_NSEWA,Max Life Secure Earnings and Wellness Advantage Plan,NPAR,0,Secure Earnings and Wellness Advantage Plan,Non Par Savings,Traditional,NPAR,NPAR
+TSEWAR,C_NSEWA,Max Life Secure Earnings and Wellness Advantage Plan,NPAR,0,Secure Earnings and Wellness Advantage Plan,Non Par Savings,Traditional,NPAR,NPAR
